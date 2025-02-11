@@ -80,7 +80,7 @@ header {
   display: flex;
   justify-content: space-between;
   background: linear-gradient(45deg, #9933ff, #6600ff);
-  padding: 20px;
+  padding: 10px;
   color: white;
 }
 
